@@ -1,0 +1,1 @@
+The program has guessed the number X and asks the user to guess the number. The user enters any number and the program tells whether it is more or less than the guessed number. The process is repeated until the user guesses the number X - variable (you can enter any value)
